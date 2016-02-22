@@ -1,2 +1,2 @@
 # calc-percent
-how to percentage with a dynamic operating
+how to percentage with a dynamic operating in Swift
